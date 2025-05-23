@@ -4,7 +4,6 @@ Welcome to my personal **portfolio website** — a fully responsive, animated Re
 
 > 🖥️ Live Preview:
 >
-> - [Vercel Deployment](https://fadyportfolio.vercel.app/)
 > - [Netlify Deployment](https://fadyportfoli.netlify.app/)
 
 ---
