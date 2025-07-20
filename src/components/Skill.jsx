@@ -51,6 +51,11 @@ const skillItem = [
         label: 'Supabase',
         desc: 'Backend-as-a-Service'
     },
+    {
+        imgSrc: '/images/GSAP1.webp',
+        label: 'GSAP',
+        desc: 'Animate Anything'
+    },
 ];
 
 function Skill() {
