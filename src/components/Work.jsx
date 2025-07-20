@@ -95,39 +95,48 @@ function Work() {
                     <div id="projectOne" className="xl:h-screen h-full w-full grid grid-cols-1 xl:grid-cols-12 gap-9 md:gap-[50px] grid-rows-2">
                         <div className=" max-lg:h-72 xl:col-start-1  xl:col-end-5 xl:row-start-1 xl:row-end-2" >
                             <img className="h-full w-full" loading="lazy" src="/projectone/img1.png" />
+                            <a href="https://react-e-commerces.netlify.app/" target="_blank" className=" absolute inset-0"/>    
                         </div>
                         <div className="max-xl:h-72 xl:-col-end-1 xl:col-span-4" >
                             <img className="h-full w-full" loading="lazy" src="/projectone/img2.png"/>
+                            <a href="https://react-e-commerces.netlify.app/" target="_blank" className=" absolute inset-0"/>    
                         </div>
                         <div className="max-xl:h-72 xl:row-start-2 xl:col-start-1 xl:col-end-5" >
                             <img className="h-full w-full" loading="lazy" src="/projectone/img4.png"/>
+                            <a href="https://react-e-commerces.netlify.app/" target="_blank" className=" absolute inset-0"/>    
                         </div>
                         <div className="max-xl:h-72 xl:row-start-2 xl:col-span-4 xl:-col-end-1" >
                             <img className="h-full w-full" loading="lazy" src="/projectone/img5.png"/>
+                            <a href="https://react-e-commerces.netlify.app/" target="_blank" className=" absolute inset-0"/>    
                         </div>
                         <div className="max-xl:h-72 xl:col-start-5 xl:col-end-9 xl:row-start-1 xl:row-span-2">
                             <img className="h-full w-full" loading="lazy" src="/projectone/img3.png"/>
+                            <a href="https://react-e-commerces.netlify.app/" target="_blank" className=" absolute inset-0"/>    
                         </div>
                     </div>
-                    <div id="projectTwo" className=" my-[30px] md:my-[60px] xl:h-screen h-full w-full grid grid-cols-1 xl:grid-cols-12 gap-9 md:gap-[50px] grid-rows-2">
-                        <div className=" max-lg::h-72 xl:col-start-1  xl:col-end-8 xl:row-start-1 xl:row-end-2" >
+                    <div id="projectTwo" className=" my-[30px] md:my-[60px] xl:h-screen h-full w-full grid grid-cols-1 xl:grid-cols-12 gap-9 md:gap-[50px] xl:grid-rows-2">
+                        <div className=" relative max-lg:h-72 max-lg:w-full xl:col-start-1  xl:col-end-8 xl:row-start-1 xl:row-end-2" >
                             <img className="h-full w-full" loading="lazy" src="/projectTwo/img1.png "/>
+                            <a href="https://the-wild-oasis-kappa-five.vercel.app" target="_blank" className=" absolute inset-0"  />
                         </div>
-                        <div className=" max-xl:h-72 xl:col-start-8  xl:-col-end-1 xl:row-start-1 xl:row-end-2" >
+                        <div className=" relative max-lg:h-72 xl:col-start-8  xl:-col-end-1">
                             <img className="h-full w-full" loading="lazy" src="/projectTwo/img2.png "/>
+                            <a href="https://the-wild-oasis-kappa-five.vercel.app" target="_blank" className=" absolute inset-0"  />
                         </div>
-                        <div className=" max-xl:h-72 col-span-4">
+                        <div className=" relative max-xl:h-72 xl:col-span-4">
                             <img className="h-full w-full" loading="lazy" src="/projectTwo/img3.png "/>
+                            <a href="https://the-wild-oasis-kappa-five.vercel.app" target="_blank" className=" absolute inset-0"  />
                         </div>
-                        <div className=" max-xl:h-72 col-span-4">
+                        <div className=" relative max-xl:h-72 xl:col-span-4">
                             <img className="h-full w-full" loading="lazy" src="/projectTwo/img4.png "/>
+                            <a href="https://the-wild-oasis-kappa-five.vercel.app" target="_blank" className=" absolute inset-0"  />
                         </div>
-                        <div className=" max-xl:h-72 col-span-4">
+                        <div className=" relative max-xl:h-72 xl:col-span-4">
                             <img className="h-full w-full" loading="lazy" src="/projectTwo/img5.png "/>
+                            <a href="https://the-wild-oasis-kappa-five.vercel.app" target="_blank" className=" absolute inset-0"  />
                         </div>
                     </div>
                 </div>
-
                 <h2 className="headline-2 mb-8 reveal-up" >
                     My portfolio highlights
                 </h2>
