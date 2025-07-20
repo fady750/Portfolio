@@ -93,37 +93,37 @@ function Work() {
                         <h1 className=" text-4xl md:text-6xl lg:text-8xl  w-full wrap-break-word" >Our Biggest Projects</h1>
                     </div>
                     <div id="projectOne" className="xl:h-screen h-full w-full grid grid-cols-1 xl:grid-cols-12 gap-9 md:gap-[50px] grid-rows-2">
-                        <div className=" max-xl:h-72 xl:col-start-1  xl:col-end-5 xl:row-start-1 xl:row-end-2" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectone/img1.png" />
+                        <div className=" max-lg:h-72 xl:col-start-1  xl:col-end-5 xl:row-start-1 xl:row-end-2" >
+                            <img className="h-full w-full" loading="lazy" src="/projectone/img1.png" />
                         </div>
                         <div className="max-xl:h-72 xl:-col-end-1 xl:col-span-4" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectone/img2.png"/>
+                            <img className="h-full w-full" loading="lazy" src="/projectone/img2.png"/>
                         </div>
                         <div className="max-xl:h-72 xl:row-start-2 xl:col-start-1 xl:col-end-5" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectone/img4.png"/>
+                            <img className="h-full w-full" loading="lazy" src="/projectone/img4.png"/>
                         </div>
                         <div className="max-xl:h-72 xl:row-start-2 xl:col-span-4 xl:-col-end-1" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectone/img5.png"/>
+                            <img className="h-full w-full" loading="lazy" src="/projectone/img5.png"/>
                         </div>
                         <div className="max-xl:h-72 xl:col-start-5 xl:col-end-9 xl:row-start-1 xl:row-span-2">
-                            <img className="h-full w-full" loading="lazy" src="/public/projectone/img3.png"/>
+                            <img className="h-full w-full" loading="lazy" src="/projectone/img3.png"/>
                         </div>
                     </div>
                     <div id="projectTwo" className=" my-[30px] md:my-[60px] xl:h-screen h-full w-full grid grid-cols-1 xl:grid-cols-12 gap-9 md:gap-[50px] grid-rows-2">
-                        <div className=" max-xl:h-72 xl:col-start-1  xl:col-end-8 xl:row-start-1 xl:row-end-2" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectTwo/img1.png "/>
+                        <div className=" max-lg::h-72 xl:col-start-1  xl:col-end-8 xl:row-start-1 xl:row-end-2" >
+                            <img className="h-full w-full" loading="lazy" src="/projectTwo/img1.png "/>
                         </div>
                         <div className=" max-xl:h-72 xl:col-start-8  xl:-col-end-1 xl:row-start-1 xl:row-end-2" >
-                            <img className="h-full w-full" loading="lazy" src="/public/projectTwo/img2.png "/>
+                            <img className="h-full w-full" loading="lazy" src="/projectTwo/img2.png "/>
                         </div>
                         <div className=" max-xl:h-72 col-span-4">
-                            <img className="h-full w-full" loading="lazy" src="/public/projectTwo/img3.png "/>
+                            <img className="h-full w-full" loading="lazy" src="/projectTwo/img3.png "/>
                         </div>
                         <div className=" max-xl:h-72 col-span-4">
-                            <img className="h-full w-full" loading="lazy" src="/public/projectTwo/img4.png "/>
+                            <img className="h-full w-full" loading="lazy" src="/projectTwo/img4.png "/>
                         </div>
                         <div className=" max-xl:h-72 col-span-4">
-                            <img className="h-full w-full" loading="lazy" src="/public/projectTwo/img5.png "/>
+                            <img className="h-full w-full" loading="lazy" src="/projectTwo/img5.png "/>
                         </div>
                     </div>
                 </div>
