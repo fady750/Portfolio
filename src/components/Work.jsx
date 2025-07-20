@@ -4,7 +4,7 @@ import gsap from "gsap";
 
 const works = [
     {
-        imgSrc: '/images/project-1.png',
+        imgSrc: '/images/Project-1.png',
         title: 'Coffee Shop Menu',
         tags: ['GSAP', 'React JS', "Web-design"],
         projectLink: 'https://coffeeshopmenuu.netlify.app/'
@@ -38,7 +38,8 @@ const works = [
         title: 'Stop Watch',
         tags: ['Web-design', 'Development'],
         projectLink: 'https://github.com/fady750/stopwatch',
-    }
+    },
+
 ];
 
 function Work() {
